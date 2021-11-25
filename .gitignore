@@ -1,5 +1,6 @@
 .vs/
-bin/
 obj/
-Debug/
 *.suo
+!*.exe
+*.exe.config
+*.pdb
